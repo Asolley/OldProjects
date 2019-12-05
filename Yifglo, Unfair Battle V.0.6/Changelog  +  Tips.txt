@@ -1,0 +1,31 @@
+Added:
+
+Kernel Burnel Quest that starts in the third town
+Quest in the middle of the second dungeon
+Some items
+Character stuff to prepare for an actual bonus character that isn't weak like Trump or Burnel
+General improvements to maps, like more NPCs and events, and more life
+(The first town is still utter crap)
+Added a few lines of dialogue after the current final boss to prepare for new dungeon.
+Easy Mode that starts you off with extra potions, 15 gold and 5 EXP
+Gameplay improvements
+Amazing new title screen
+
+Fixed:
+Hairy Skull messing up the battle music
+The desert having a green battle background
+Less grindy now, boosted monster EXP and lowered EXP needed to level
+
+
+Tips:
+Reach level 2 as soon as possible, it grants +1 DEF and +1 MDF, making the early game WAY easier.
+Save any Vile Bottles you find to use on a tough Dingbat encounter or a Lost Fool
+Vile Bottles become weak after the first dungeon, don't be afraid to use them!
+The Clock can change text box color!
+Most beds allow you to heal to full / near full!
+A successful auto attack grants 5 TP!
+Robin's Bad Manners ability is really useful! (not on bosses though) Healing them to lower defense = value
+Slemes are weak to fire!
+Huffers resist slash!
+Dingbats are slower than Luigi's NINJA STRIKE!
+Save often, but don't lock yourself into death!
