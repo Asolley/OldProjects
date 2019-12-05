@@ -1,0 +1,12 @@
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\bin\Debug\Solley_Andrew_DataTypes.exe.config
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\bin\Debug\Solley_Andrew_DataTypes.exe
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\bin\Debug\Solley_Andrew_DataTypes.pdb
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.csprojResolveAssemblyReference.cache
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.Form1.resources
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.Properties.Resources.resources
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.csproj.GenerateResource.Cache
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.exe
+E:\Programms\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.pdb
+E:\Programming Projects\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\bin\Debug\Solley_Andrew_DataTypes.exe.config
+E:\Programming Projects\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.exe
+E:\Programming Projects\Solley_Andrew_DataTypes\Solley_Andrew_DataTypes\obj\Debug\Solley_Andrew_DataTypes.pdb
