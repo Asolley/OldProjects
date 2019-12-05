@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solley_Andrew_2DPlatfromer.Plugins", "Solley_Andrew_2DPlatfromer.Plugins.csproj", "{0CADA46C-A95C-7CA0-6EC2-A9A510BDE6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solley_Andrew_2DPlatfromer", "Solley_Andrew_2DPlatfromer.csproj", "{491C375E-E768-5338-5D98-BC91624599A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solley_Andrew_2DPlatfromer.Editor", "Solley_Andrew_2DPlatfromer.Editor.csproj", "{AE27D376-195E-31FD-5A12-EB072A46569D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CADA46C-A95C-7CA0-6EC2-A9A510BDE6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CADA46C-A95C-7CA0-6EC2-A9A510BDE6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CADA46C-A95C-7CA0-6EC2-A9A510BDE6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CADA46C-A95C-7CA0-6EC2-A9A510BDE6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491C375E-E768-5338-5D98-BC91624599A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491C375E-E768-5338-5D98-BC91624599A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491C375E-E768-5338-5D98-BC91624599A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491C375E-E768-5338-5D98-BC91624599A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE27D376-195E-31FD-5A12-EB072A46569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE27D376-195E-31FD-5A12-EB072A46569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE27D376-195E-31FD-5A12-EB072A46569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE27D376-195E-31FD-5A12-EB072A46569D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
