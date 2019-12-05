@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b03b0acec5f8cc499f8419b3d038b00
+timeCreated: 1486751500
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectile: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: 1afccfdd1b0530047940193baca101f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
