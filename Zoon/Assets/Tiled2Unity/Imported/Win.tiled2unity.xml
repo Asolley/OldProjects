@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 1/20/2018 11:14:44 AM-->
+<Tiled2Unity version="1.0.12.4">
+  <Prefab name="Win" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="50" numTilesHigh="50" tileWidth="32" tileHeight="32" exportScale="1" mapWidthInPixels="1600" mapHeightInPixels="1600" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+    </GameObject>
+  </Prefab>
+</Tiled2Unity>
